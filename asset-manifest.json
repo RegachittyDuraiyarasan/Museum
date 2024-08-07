@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e8fb3f1.css",
-    "main.js": "/static/js/main.b0819d6e.js",
+    "main.js": "/static/js/main.29526eef.js",
     "static/js/453.cf7a1c71.chunk.js": "/static/js/453.cf7a1c71.chunk.js",
     "static/media/smokeeffectnew.mp4": "/static/media/smokeeffectnew.fe064afeec7899198fe7.mp4",
     "static/media/pathway-leading-saint-peter-s-basilica-night-time.jpg": "/static/media/pathway-leading-saint-peter-s-basilica-night-time.5624693f399a403af48f.jpg",
@@ -40,11 +40,11 @@
     "index.html": "/index.html",
     "static/media/Group 35.svg": "/static/media/Group 35.017f9473172e56e13f265686eda86ff6.svg",
     "main.0e8fb3f1.css.map": "/static/css/main.0e8fb3f1.css.map",
-    "main.b0819d6e.js.map": "/static/js/main.b0819d6e.js.map",
+    "main.29526eef.js.map": "/static/js/main.29526eef.js.map",
     "453.cf7a1c71.chunk.js.map": "/static/js/453.cf7a1c71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e8fb3f1.css",
-    "static/js/main.b0819d6e.js"
+    "static/js/main.29526eef.js"
   ]
 }
